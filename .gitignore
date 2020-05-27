@@ -1,0 +1,17 @@
+
+
+Assets/StreamingAssets/AssetBundles/
+AssetBundles/
+Assets/StreamingAssets/AssetBundles.meta
+*.apk
+
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+
+Library/
+Temp/
+.vs/
+obj/
+
